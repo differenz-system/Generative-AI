@@ -1,5 +1,7 @@
 # Stable Diffusion web UI
+
 ## Demo Video
+![Alt text](asset/demo.gif "Optional title")
 
 ## Features
 [Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
